@@ -1,0 +1,13 @@
+{
+  "name": "node-grpc-client",
+  "dependencies": {
+    "@grpc/proto-loader": "^0.4.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "google-protobuf": "^3.6.1",
+    "grpc": "^1.18.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
